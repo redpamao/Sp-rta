@@ -1,2 +1,2 @@
-# Sp-rta
+# Sparta
 IKT projekt
