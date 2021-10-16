@@ -1,10 +1,9 @@
 body {
-    background-image: url(./Képek/háttér.jpg);
+    background-image: url(./Kepek/háttér.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    overflow: hidden;
     font-family: 'Courier New';
 }
 
@@ -15,20 +14,16 @@ body {
 }
 
 .keret {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.6);
     border-radius: 20px;
     border: 2px solid black;
     box-sizing: border-box;
     padding: 10px;
 }
 
-.chadek {
-    padding: 0;
-    font-size: 25px;
-}
-
-.chadekDiv {
-    height: 50px;
+.aktualis {
+    text-decoration: underline;
+    color: white;
 }
 
 header {
@@ -42,4 +37,10 @@ main {
 
 footer {
     margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
