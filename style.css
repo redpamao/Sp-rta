@@ -5,6 +5,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Courier New';
+    color: white;
 }
 
 .focim {
@@ -43,4 +44,9 @@ footer {
 li {
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.chadek {
+    background-image: url("./Kepek/pattern.png");
+    background-position: center;
 }
