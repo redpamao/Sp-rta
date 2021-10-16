@@ -1,0 +1,45 @@
+body {
+    background-image: url(./Képek/háttér.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+    font-family: 'Courier New';
+}
+
+.focim {
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.keret {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.chadek {
+    padding: 0;
+    font-size: 25px;
+}
+
+.chadekDiv {
+    height: 50px;
+}
+
+header {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+main {
+    background-color: rgb(0, 0, 0, 0);
+}
+
+footer {
+    margin-top: 50px;
+}
