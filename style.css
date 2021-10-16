@@ -20,11 +20,22 @@ body {
     border: 2px solid black;
     box-sizing: border-box;
     padding: 10px;
+    /* background-image: url(./Kepek/chad2.jpg); */
+    /* background-size: contain; */
 }
 
 .aktualis {
     text-decoration: underline;
     color: white;
+}
+
+.egyesitett {
+    vertical-align: middle;
+}
+
+.chad {
+    background-image: url(./Kepek/chad.jpg);
+    background-size: contain;
 }
 
 header {
@@ -46,7 +57,17 @@ li {
     padding-bottom: 5px;
 }
 
-.chadek {
-    background-image: url("./Kepek/pattern.png");
-    background-position: center;
+hr {
+    border: 5px solid white;
+    z-index: 100;
+}
+
+table {
+    color: white;
+    border-collapse: collapse;
+}
+
+tr, th, td {
+    color: white;
+    /* border: 2px solid white; */
 }
