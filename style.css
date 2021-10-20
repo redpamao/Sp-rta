@@ -35,6 +35,7 @@ body {
 .chad {
     /* background-image: url(./Kepek/chad.jpg); */
     background-size: contain;
+    color: rgb(199, 199, 199);
 }
 
 .csatakeret {
@@ -58,6 +59,10 @@ header {
 footer {
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+ul {
+    color: rgb(199, 199, 199);
 }
 
 li {
