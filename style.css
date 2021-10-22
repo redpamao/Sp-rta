@@ -19,8 +19,6 @@ body {
     border: 2px solid black;
     box-sizing: border-box;
     padding: 10px;
-    /* background-image: url(./Kepek/chad2.jpg); */
-    /* background-size: contain; */
 }
 
 .aktualis {
@@ -33,7 +31,6 @@ body {
 }
 
 .chad {
-    /* background-image: url(./Kepek/chad.jpg); */
     background-size: contain;
     color: rgb(199, 199, 199);
 }
@@ -44,6 +41,8 @@ body {
 
 p {
     color: rgb(199, 199, 199);
+    text-align: justify;
+    text-indent: 40px;
 }
 
 h3 {
